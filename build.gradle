@@ -11,7 +11,7 @@ node {
 
 //declare a build task
 task build
-
+//Naren
 //declare a task to create a zip of the app
 task zip(type: Zip) {
 	from ('.') {
